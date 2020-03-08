@@ -1,0 +1,21 @@
+composition            = Ba2Al2F4B2O6
+spacegroups            = 143-194
+
+#                           a,    b,    c, alpha,  beta, gamma
+latticeMins            =  3.0,  3.0,  3.0,  40.0,  40.0,  40.0
+latticeMaxes           = 13.0, 13.0, 13.0, 150.0, 150.0, 150.0
+
+minVolume              = 150
+maxVolume              = 250
+
+numOfEachSpgToGenerate = 300
+
+forceMostGeneralWyckPos = false
+
+#forceWyckPos Mg        = a
+
+maxAttempts = 1000
+
+outputDir              = BaAlBO3F2_rstruct
+
+verbosity              = n

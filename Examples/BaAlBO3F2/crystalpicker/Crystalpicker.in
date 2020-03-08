@@ -1,0 +1,47 @@
+#localBondingPairs = Al-O:2.0
+
+#minNumOfLocalBonds = 16;10
+
+globalBondingPairs = Al-F:2.0,Al-O:2.0,B-O:1.6,B-F:1.5, Ba-F:3.0, Ba-O:3.2
+
+minNumOfGlobalBonds = 30
+
+#maxNumOfSharedVertexes = S-S:0
+
+#forbiddenPyramidalPolyhedrons = Si,Ti
+
+#minVolumeOfPolyhedrons = Ti:0.6,Si:0.6
+
+minCoordinationNumber = B:3,Al:5
+
+#maxCoordinationNumber = Si:4,Ti:6
+
+#minDistanceOfAtoms = Ba-Ba:3.0,Ba-Nb:3.0,Ba-Na:3.0,Ba-O:2.0,Nb-Nb:3.0,Nb-Na:3.0,Nb-O:1.6,Na-O:2.0,Na-Na:3.0,O-O:2.0
+
+defaultMinDistanceOfAtoms = 0.8
+
+poscarFilename = Ba2Al2F4B2O6
+
+spacegroups = 143-194
+
+maxNumOfFilesForEachSpg = 300
+
+inputDir = BaAlBO3F2_rstruct
+
+outputDir = BaAlBO3F2_result
+
+maxNumOfOutputFilesForEachSpg = 40
+
+#maxNumOfAtomsOnPolyhedron = Al:F/2,O/4;B:O/3,F/0
+
+#maxNumOfOutputFilesWithTheSameNumOfBondsForEachSpg = 2
+
+xtalComp = true
+
+lenTol = 2.5
+
+angleTol = 3.0
+
+posTol = 0.6
+
+maxNumOfOutputFilesForEachSimilarStructureType = 5

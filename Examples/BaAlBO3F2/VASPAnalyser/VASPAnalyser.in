@@ -1,0 +1,5 @@
+rootDirectory = BABF_relaxed
+prefixOfSubdirectory = Ba2Al2F4B2O6
+numOfSubdirectories = 134
+symprec = 0.05
+ 

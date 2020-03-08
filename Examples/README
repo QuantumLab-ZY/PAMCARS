@@ -1,0 +1,6 @@
+Written by - Yang Zhong
+
+When copying the input files to a Linux system, use the following command to convert the input files (.in files) 
+to files that conform to the encoding format in Linux:
+
+dos2unix xxx.in
