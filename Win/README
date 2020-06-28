@@ -1,0 +1,8 @@
+Written by - Yang Zhong
+
+Before running PAMCARS1.0_mpich.exe, you need to install mpich2 and configure the path of mpich2 in Windows.
+To run PAMCARS1.0_mpich.exe, just type the following command in DOS:
+
+mpiexec -n numberOfProcesses .\PAMCARS1.0_mpich.exe
+
+crystalpicker.exe and VASPAnalyser.exe are serial programs and can be run directly.
