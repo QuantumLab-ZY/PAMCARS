@@ -38,6 +38,6 @@ numOfTrialCrystals = 300
 
 maxAttemptsToGenerateInitialCrystal = 50
 
-skipIfTheSetOfIterationStartCriteriaIsEmpty = false
+skipIfTheSetOfIterationStartCriteriaIsEmpty = true
 
 #maxNumOfAtomsOnPolyhedron = Al : F  /  2 , O /  4 ; B  : O / 3 , F /1
